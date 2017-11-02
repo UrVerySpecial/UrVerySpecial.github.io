@@ -7,6 +7,7 @@
   - 気軽に音楽を楽しみたい人
   - 音楽鑑賞用にbluetooth speakerを使っていて、接続するとか再生するとかで面倒くささを感じてる人
 - なんかアイアンマンのジャビスみたい。
+- これでより、CopyRight社会からAccessRight社会につか付いた気がした。いちいちお金払ったりだるい。そのうちnetflixの無料版がでるかも。
 - [レビュー記事](https://gadgeron.com/googlehome-review)
 
 ### 感想
