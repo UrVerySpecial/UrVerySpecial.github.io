@@ -30,7 +30,7 @@
   - 車にもほしいくらい。
 - 家中がCloudに。
   - Wireless オーディオシステム、テレビと繋がっているビデオストリーム機器(ChromeCast)、スマート照明(Hueなど。持ってないけど)がやっと一つになれた感がする。
-  - 特にChromecastがあることでできることが増える。
+  - 特にChromecastがあるとできることが増える。
     - Google Homeは音声でInput,音でOutputだがChromecastを繋げることで映像がOutputになる。
 - 音声入力
   - 驚きの認識率。
