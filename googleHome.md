@@ -24,13 +24,13 @@
     1. iPhone, iPadなどからMusicApp起動
     2. Bluetooth Speakerに電源を入れて自動につながるのを待つか、AirPlayでオーディオシステムに接続して流す
   - New
-    - `OK、Google、bossanova流して` で終わり。
+    - `OK、Google、bossanova流して` で終わり。
   - これのお陰で朝起きてすぐに音楽かけられるようになった。
   - 車にもほしいくらい。
 - 家中がCloudに。
   - Wireless オーディオシステム、テレビと繋がっているビデオストリーム機器(ChromeCast)、スマート照明(Hueなど。持ってないけど)がやっと一つになれた感がする。
   - 特にChromecastがあることでできることが増える。
-    - Google Homeは音声でInput,音でOutputだがChromecastを繋げることで映像がOutputになる。
+    - Google Homeは音声でInput,音でOutputだがChromecastを繋げることで映像がOutputになる。
 - 音声入力
   - 驚きの認識率。
   - 結構小さい声でも行ける。
