@@ -2,29 +2,31 @@
 ### tl;dr
 - 家の中で感じていた様々な面倒くささを解決してくれる素晴らしいデバイスだと思う。個人的にはこれで `15,000` なら納得。寝室用にMiniも購入予定
 - 超おすすめ
-  - Chrome Cast User
+  - Chromecast User
 - おすすめ
   - 気軽に音楽を楽しめたい人
   - 音楽鑑賞用にbluetooth speakerを使っていて、接続するとか再生するとかで面倒くささを感じてる人
-
+- なんかアイアンマンのジャビスみたい。
+- [レビュー記事](https://gadgeron.com/googlehome-review)
 ### 感想
 #### スピーカーとして
 - このサイズでこの音質は満足。
   - Boseの[mini soundlink](http://amzn.asia/0CFtMrR)を持っているが、そんなに負けてない。
   - 特に低音がいい。
+- モバイルスピーカーとしては使えない。
 #### 新しいDeviceとして
 - 気軽に音楽が聞ける
   - 普段の流れ
-    1. Iphone, ipadなどからMusicApp起動
+    1. iPhone, iPadなどからMusicApp起動
     2. Bluetooth Speakerに電源を入れて自動につながるのを待つか、AirPlayでオーディオシステムに接続して流す
-  - New
-    - `ね、Google、bossanova流して` で終わり。
+  - New
+    - `OK、Google、bossanova流して` で終わり。
   - これのお陰で朝起きてすぐに音楽かけられるようになった。
   - 車にもほしいくらい。
 - 家中がCloudに。
   - Wireless オーディオシステム、テレビと繋がっているビデオストリーム機器(ChromeCast)、スマート照明(Hueなど。持ってないけど)がやっと一つになれた感がする。
-  - 特にChromeCastがあることでできることが増える。
-  - Google HomeはInput, ChromeCastはOutput
+  - 特にChromecastがあることでできることが増える。
+    - Google Homeは音声でInput,音でOutputだがChromecastを繋げることで映像がOutputになる。
 - 音声入力
   - 驚きの認識率。
   - 結構小さい声でも行ける。
@@ -37,8 +39,7 @@
 - その他
   - 明日の天気は？とか普通の質問に普通に答えてくれる。
   - 職場までどれくらい？などにも答えてくれた。
-  - 
-  -
 #### 残念なところ
-- 仕方がないことだとは思うが、一つのやりとりが終わってからまた `ね、Google` をするのがめんどい
-- 
+- 仕方がないことだとは思うが、一つのやりとりが終わってからまた `OK、Google` をするのがめんどい
+- 音楽再生が `google play music` と `spotify` しか対応していない。今日Apple Music解約して google play musicに入った(~~作戦?~~)
+- Chromecastやspotifyのアカウントがないとできることが限られる。
